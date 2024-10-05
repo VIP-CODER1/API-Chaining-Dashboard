@@ -15,8 +15,7 @@
 5. **State Management:** Efficiently manage app state and data.
 **How to Run the Project Locally**
 1. **Clone the Repository:**
-    [git clone https://github.com/vipulkm3d/api-chaining-dashboard.git
-    cd api-chaining-dashboard](https://github.com/VIP-CODER1/API-Chaining-Dashboard/tree/main?tab=readme-ov-file)
+   https://github.com/VIP-CODER1/API-Chaining-Dashboard/tree/main?tab=readme-ov-file
 
 **2. Install Dependencies:**
 
